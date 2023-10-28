@@ -165,10 +165,3 @@ Thanks you, for contributing.
 - [Ciro Iriarte](https://github.com/ciroiriarte)
 - [Shreyas More](https://github.com/staticshreyas)
 
-## Credits :sparkling_heart:
---------------------------------
-Thanks to [Farhat Tasnim](https://github.com/farhattasnim) work with me.
-
-## Licence :scroll:
----------------------------------
-MIT © [K.M.H. Mubin](https://github.com/kmhmubin)
